@@ -1,0 +1,15 @@
+// This project uses a third-party lib 
+// which is jsoncpp for making a json parser
+// and a makefile
+
+//Considering into function the json file received is proper
+
+// gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+
+sudo apt-get install libjsoncpp-dev
+sudo apt install make
+
+//after these two install just run $: make
+
+//TODO: memory leaks 
+
